@@ -55,24 +55,12 @@ Status   : Building cool things and breaking stuff (legally)
 
 ---
 
-### `> ls projects/`
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔍 [**NetRecon Toolkit**](https://github.com/yourusername/netrecon-toolkit) | Async network recon & port scanning tool | Python, asyncio |
-| 🌐 [**Web API Suite**](https://github.com/yourusername/web-api-suite) | RESTful API collection with auth & testing | FastAPI, Postman |
-| 🛡️ [**SSH Hardening Scripts**](https://github.com/yourusername/ssh-hardening) | Automated SSH/ACL config for Cisco devices | Bash, Cisco IOS |
-
----
-
 ### `> ping me`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-dahman/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanamjad04@gmail.com)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ```
 > Connection established. Let's build something.
