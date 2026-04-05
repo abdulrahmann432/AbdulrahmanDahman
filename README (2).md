@@ -26,9 +26,9 @@
 $ ./me.sh
 
 Name     : Abdulrahman
-Role     : CS Student & QA Engineer
-Focus    : Network Security | Web Development | Automation
-Status   : Building cool things and breaking stuff (legally)
+Role     : CS Student
+Focus    : Network Security | Automation
+Status   : Building cool things (maybe)
 ```
 
 ---
