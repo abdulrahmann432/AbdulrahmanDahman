@@ -11,8 +11,8 @@
 
 ### `> whoami`
 
-**Computer Science student · FQA Engineer · Cybersecurity Enthusiast**  
-📍 Warsaw, Poland &nbsp;|&nbsp; 🎓 Vistula University
+**Computer Science student · Cybersecurity Enthusiast**  
+📍 Warsaw, Poland &nbsp;|&nbsp; 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Network+Security+%26+Recon;Ethical+Hacking+%26+CTFs;Full-Stack+Web+Development;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
 $ ./me.sh
 
 Name     : Abdulrahman
-Role     : CS Student & QA Engineer
+Role     : CS Student
 Focus    : Network Security | Web Development | Automation
 Status   : Building cool things and breaking stuff (legally)
 ```
