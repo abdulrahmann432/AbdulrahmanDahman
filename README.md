@@ -23,7 +23,7 @@
 ```bash
 $ ./me.sh
 Name     : Abdulrahman
-Role     : CS Student
+Role     : CS Graduate
 Focus    : Network Security | Automation
 ```
 
