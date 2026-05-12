@@ -1,18 +1,17 @@
 <div align="center">
 
-```
+<pre>
  ███╗   ██╗███████╗████████╗██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗
  ████╗  ██║██╔════╝╚══██╔══╝██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝
  ██╔██╗ ██║█████╗     ██║   ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ 
  ██║╚██╗██║██╔══╝     ██║   ██║███╗██║██║   ██║██╔══██╗██╔═██╗ 
  ██║ ╚████║███████╗   ██║   ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗
  ╚═╝  ╚═══╝╚══════╝   ╚═╝    ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+</pre>
 
 ### `> whoami`
-
 **Computer Science Enthusiast**  
-📍 Warsaw, Poland 
+📍 Warsaw, Poland
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Network+Security+%26+Recon;Ethical+Hacking+%26+CTFs;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
@@ -21,10 +20,8 @@
 ---
 
 ### `> cat about.txt`
-
 ```bash
 $ ./me.sh
-
 Name     : Abdulrahman
 Role     : CS Student
 Focus    : Network Security | Automation
@@ -47,6 +44,3 @@ Focus    : Network Security | Automation
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-</div>
