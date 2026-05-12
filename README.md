@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-**Computer Science student**  
+**Computer Science Enthusiast**  
 📍 Warsaw, Poland 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Network+Security+%26+Recon;Ethical+Hacking+%26+CTFs;Always+learning%2C+always+building...)](https://git.io/typing-svg)
@@ -28,7 +28,6 @@ $ ./me.sh
 Name     : Abdulrahman
 Role     : CS Student
 Focus    : Network Security | Automation
-Status   : Building cool things (maybe)
 ```
 
 ---
